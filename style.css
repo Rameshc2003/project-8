@@ -1,0 +1,31 @@
+.container{
+    width: 500px;
+    height: 600px;
+    background-color:rgb(56, 56, 136) ;
+    
+    border: 2px solid black;
+
+}
+input{
+    cursor: pointer;
+
+    
+}
+ body
+{
+    
+    background-image: url(./cal.jpg);
+}
+.container button{
+
+    background-color:aqua;
+    width: 150px;
+    color: black;
+    border-radius: 10px 50px;
+    
+
+    
+    
+
+}
+
